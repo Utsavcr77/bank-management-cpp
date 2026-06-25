@@ -1,0 +1,13 @@
+# Compiled binary
+bank_app
+bank_app.exe
+
+# Bank data (contains customer records — do NOT commit to public repos)
+data/bank_data.txt
+
+# macOS
+.DS_Store
+
+# Build artifacts
+*.o
+*.out
